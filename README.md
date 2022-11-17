@@ -3,7 +3,7 @@
 - 👀 I’m interested in FrontEnd, BackEnd, and Data Science.
 - 🌱 I’m currently learning D3.js to visually display information.
 
-## Skills...
+## Skills
 - [X] HTML
 - [X] CSS
 - [X] JavaScript
@@ -13,7 +13,7 @@
 - [X] Git
 - [X] markdown
 - [X] C
-## Curently working on...
+## Curently working on
 - [ ] Front End Engineering Certificate: Codecademy
 - [ ] Responsive Web Design Certificate: FreeCodeCamp.org
 - [ ] 100-JavaScript Algo Challenge
