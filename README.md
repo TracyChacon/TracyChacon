@@ -18,6 +18,7 @@
 - [ ] Responsive Web Design Certificate: FreeCodeCamp.org
 - [ ] 100-JavaScript Algo Challenge
 - [ ] JavaScript Algorithms and Data Structures Certificate: FreeCodeCamp.org
+- [ ] D3.js: FreeCodeCamp.org
 - [ ] Resume Website
 - [ ] Python AI using pandas, pickle
 - [ ] Portfolio Project1
