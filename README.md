@@ -2,7 +2,9 @@
 - 👋 Hi, I’m @TracyChacon
 - 👀 I’m interested in FrontEnd, BackEnd, and Data Science.
 - 🌱 I’m currently learning D3.js to visually display information.
-- > - Favorite Quote: “You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing.”
+- Favorite Quote: 
+> “You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing.”
+> René Descartes
 - @ [linkedin profile] (https://www.linkedin.com/in/tracy-chacon-862a5699/)
 - @ [freeCodeCamp profile] (https://www.freecodecamp.org/tracychacon)
 
