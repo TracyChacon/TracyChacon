@@ -10,16 +10,16 @@
 - @ [freeCodeCamp profile] (https://www.freecodecamp.org/tracychacon)
 
 
-## Skills
-- [X] HTML
-- [X] CSS
-- [X] JavaScript
-- [X] TypeScript
-- [X] React
-- [X] Redux
-- [X] Git
-- [X] markdown
-- [X] C
+> ## Skills
+> - [X] HTML
+> - [X] CSS
+> - [X] JavaScript
+> - [X] TypeScript
+> - [X] React
+> - [X] Redux
+> - [X] Git
+> - [X] markdown
+> - [X] C
 > ## Curently working on
 > - [ ] Front End Engineering Certificate: Codecademy
 > - [ ] Responsive Web Design Certificate: FreeCodeCamp.org
