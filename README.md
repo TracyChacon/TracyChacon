@@ -6,8 +6,8 @@
 > “You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing.”
 > 
 >  -René Descartes
--  Linkedin profile: (https://www.linkedin.com/in/tracy-chacon-862a5699/)
--  freeCodeCamp profile: (https://www.freecodecamp.org/tracychacon)
+*  Linkedin profile: (https://www.linkedin.com/in/tracy-chacon-862a5699/)
+*  freeCodeCamp profile: (https://www.freecodecamp.org/tracychacon)
 
 
 > ## Skills
