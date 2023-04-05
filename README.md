@@ -30,8 +30,8 @@
 > - [ ] API
 ## Learning Path
 > - Full Stack
- > - Front End
- > - Back End
+>  - Front End
+>  - Back End
 > - Mobile
 > - Mathematics
 > - Physics
