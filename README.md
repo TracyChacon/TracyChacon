@@ -11,7 +11,7 @@
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
 
-## Curently working on
+## In the Pipeline
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
 > - [ ] Python AI using pandas, pickle
 > - [ ] API
