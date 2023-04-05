@@ -16,7 +16,7 @@
 > - [ ] API
 ## Projects
 > - [X] [Resume Website](https://tracychacon.github.io/)
->  ## Skills
+## Skills
 > - [X] HTML
 > - [X] CSS
 > - [X] JavaScript
