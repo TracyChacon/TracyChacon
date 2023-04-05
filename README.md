@@ -8,7 +8,15 @@
 *   [Linkedin profile](https://www.linkedin.com/in/tracy-chacon-862a5699/)
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
- ## Skills
+
+## Curently working on
+> - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
+> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
+> - [ ] Python AI using pandas, pickle
+> - [ ] API
+## Projects
+> - [X] [Resume Website](https://tracychacon.github.io/)
+>  ## Skills
 > - [X] HTML
 > - [X] CSS
 > - [X] JavaScript
@@ -20,13 +28,6 @@
 > - [X] markdown
 > - [X] C
 > - [X] Comand Line Interface (CLI)
-## Curently working on
-> - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
-> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
-> - [ ] Python AI using pandas, pickle
-> - [ ] API
-## Projects
-> - [X] [Resume Website](https://tracychacon.github.io/)
 ## My Learning Path
 > - Full Stack Development
 >   - Front End
