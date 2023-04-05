@@ -1,6 +1,7 @@
 ## About me
 - 👋 Hi, I’m @TracyChacon
 - 👀 I’m interested in FrontEnd, BackEnd, and Mobile Development
+- I'm Always curious about processes and methods
 - Favorite Quote: 
 > “You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing.”
 > 
