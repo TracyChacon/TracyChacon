@@ -16,9 +16,11 @@
 > - [X] TypeScript
 > - [X] React
 > - [X] Redux
+> - [X] Router
 > - [X] Git
 > - [X] markdown
 > - [X] C
+> - [X] Comand Line Interface (CLI)
 ## Curently working on
 > - [X] Front End Engineering Certificate: Codecademy
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
