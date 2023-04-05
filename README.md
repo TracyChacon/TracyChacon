@@ -30,8 +30,6 @@
 >   - Ever hear of [page rank](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.)? 
 >   - It involves using math and your starting point to figure out where you are most likely to end up.
 
-|| [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) || 
-
 ## Skills
 > - [X] HTML5
 > - [X] CSS3
