@@ -12,8 +12,6 @@
 *   [Resume Website](https://tracychacon.github.io/)
 
 ## Curently working on
-> - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
-> - [X] Markov Chains 
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
 > - [ ] Python AI using pandas, pickle
 > - [ ] API
@@ -34,6 +32,8 @@
 > - [X] markdown
 > - [X] C
 > - [X] Comand Line Interface (CLI)
+## Certificates
+> - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 ## My FOREVER Learning Path
 I can't know it all but that's not going to stop me from trying to learn it all.
 > - Full Stack Development
