@@ -19,23 +19,30 @@
 
  `                                                                                                                `
 
+<br>
+                                                                                        
+## Projects<hr>
+
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
-<br>
+<hr>
 
-                                                                                                        
-## Projects<hr>
 > - [X] [Resume Website](https://tracychacon.github.io/)
 > - [X] Markov Chains 
 >   - Ever hear of [page rank](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.)? 
 >   - It involves using math and your starting point to figure out where you are most likely to end up.
 
  `                                                                                                                `
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <br>
 
 ## Skills<hr>
+
+
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
+
+<hr>
+
 > - [X] HTML5
 > - [X] CSS3
 > - [X] JavaScript
@@ -50,11 +57,14 @@
 
  `                                                                                                                `
 
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
-
 <br>
 
 ## Pipeline<hr>
+
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
+
+<hr>
+
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
 > - [ ] Interactive Markov Chain simulator
 > - [ ] Physics Simulations
@@ -63,20 +73,28 @@
 
  `                                                                                                                `
  
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
-
 <br>
                                                                                              
 ## Certificates<hr>
+
+
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
+
+<hr>
+
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 
  `                                                                                                                `
- 
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <br>
 
 ## Learning-Path<hr>
+
+
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
+
+<hr>
+
 I can't know it all but that's not going to stop me from trying to learn it all.
 > - Full Stack Development
 >   - Front End
