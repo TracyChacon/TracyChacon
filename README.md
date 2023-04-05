@@ -10,7 +10,7 @@
 *  freeCodeCamp profile: https://www.freecodecamp.org/tracychacon
 
 
-> ## Skills
+ ## Skills
 > - [X] HTML
 > - [X] CSS
 > - [X] JavaScript
@@ -20,16 +20,24 @@
 > - [X] Git
 > - [X] markdown
 > - [X] C
-> ## Curently working on
-> - [ ] Front End Engineering Certificate: Codecademy
+## Curently working on
+> - [X] Front End Engineering Certificate: Codecademy
 > - [ ] Responsive Web Design Certificate: FreeCodeCamp.org
 > - [ ] 100-JavaScript Algo Challenge
 > - [ ] JavaScript Algorithms and Data Structures Certificate: FreeCodeCamp.org
 > - [ ] D3.js: FreeCodeCamp.org
-> ## Projects
+## Projects
 > - [ ] Resume Website
 > - [ ] Python AI using pandas, pickle
 > - [ ] Website
 > - [ ] API
+## Learning Path
+> - Full Stack
+> -- Front End
+> -- Back End
+> -- Mobile
+> - Mathematics
+> - Physics
+> - Computer Science 
 
 
