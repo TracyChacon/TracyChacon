@@ -24,11 +24,10 @@
 ## Curently working on
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
-## Projects
-> - [ ] Resume Website
 > - [ ] Python AI using pandas, pickle
-> - [ ] Website
 > - [ ] API
+## Projects
+> - [X] Resume Website
 ## Learning Path
 > - Full Stack
 >   - Front End
