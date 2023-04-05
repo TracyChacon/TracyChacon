@@ -1,6 +1,6 @@
 
 
-### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;|&ensp; [In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
 
 <br>
 
@@ -23,18 +23,6 @@
 
 <br>
 
-## In the Pipeline<hr>
-> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
-> - [ ] Interactive Markov Chain simulator
-> - [ ] Physics Simulations
-> - [ ] Python AI using pandas, pickle
-> - [ ] API - TBD
-
- `                                                                                                                `
-
-### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
-
-<br>
                                                                                                         
 ## Projects<hr>
 > - [X] [Resume Website](https://tracychacon.github.io/)
@@ -62,6 +50,20 @@
 > - [X] Comand Line Interface (CLI)
 
  `                                                                                                                `
+ 
+ 
+## In the Pipeline<hr>
+> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
+> - [ ] Interactive Markov Chain simulator
+> - [ ] Physics Simulations
+> - [ ] Python AI using pandas, pickle
+> - [ ] API - TBD
+
+ `                                                                                                                `
+
+### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+
+<br>
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
 <br>
