@@ -1,8 +1,7 @@
- `                                                                                                                `
+
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
-
- `                                                                                                                `
+<hr>
 
 ## About
 - 👋 Hi, I’m @TracyChacon
@@ -85,4 +84,9 @@ I can't know it all but that's not going to stop me from trying to learn it all.
 > - [Computer Science](https://github.com/ossu/computer-science) 
 > - Data Science
 
+ `                                                                                                                `
+
+### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+
+ `                                                                                                                `
 
