@@ -1,6 +1,6 @@
  `                                                                                                                `
 
-[About](#About) &ensp; || [In the Pipeline  ](#In) || [Projects  ](#Projects) || [Skills  ](#Skills) || [Certificates  ](#Certificates) || [My FOREVER Learning Path  ](#My) 
+[About](#About) &ensp; || [In the Pipeline](#In) &ensp; || [Projects](#Projects) &ensp;|| [Skills](#Skills) &ensp;|| [Certificates](#Certificates) &ensp;|| [My FOREVER Learning Path](#My) 
 
  `                                                                                                                `
 
