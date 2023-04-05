@@ -13,7 +13,7 @@
 ## Curently working on
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 >  - [X] Markov Chains 
->     - Ever hear of [page rank](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.)? It involves using math and your starting point to figure out where you end up.
+>     - Ever hear of [page rank](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.)? It involves using math and your starting point to figure out where you are most likely to end up.
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
 > - [ ] Python AI using pandas, pickle
 > - [ ] API
