@@ -20,9 +20,9 @@
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
 
-<hr>
+<br>
 
-## In the Pipeline
+## In the Pipeline<hr>
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
 > - [ ] Interactive Markov Chain simulator
 > - [ ] Physics Simulations
@@ -33,11 +33,11 @@
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
 
-<hr>
+<br>
                                                                                                         
 
 
-## Projects
+## Projects<hr>
 > - [X] [Resume Website](https://tracychacon.github.io/)
 > - [X] Markov Chains 
 >   - Ever hear of [page rank](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.)? 
@@ -47,10 +47,10 @@
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
 
-<hr>
+<br>
 
 
-## Skills
+## Skills<hr>
 > - [X] HTML5
 > - [X] CSS3
 > - [X] JavaScript
@@ -66,12 +66,11 @@
  `                                                                                                                `
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
-
-<hr>
+<br>
                                                                                               
 
 
-## Certificates
+## Certificates<hr>
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 
 ## My FOREVER Learning Path
@@ -95,5 +94,3 @@ I can't know it all but that's not going to stop me from trying to learn it all.
  `                                                                                                                `
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
-
-<hr>
