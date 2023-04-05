@@ -17,7 +17,12 @@
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
 
-|| [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) || 
+ `                                                                                                                `
+
+[About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+
+ `                                                                                                                `
+
 
 ## In the Pipeline
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
@@ -26,7 +31,12 @@
 > - [ ] Python AI using pandas, pickle
 > - [ ] API - TBD
 
-|| [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) ||
+ `                                                                                                                `
+
+[About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+
+ `                                                                                                                `
+
 
 ## Projects
 > - [X] [Resume Website](https://tracychacon.github.io/)
@@ -47,7 +57,12 @@
 > - [X] C
 > - [X] Comand Line Interface (CLI)
 
-|| [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) || 
+ `                                                                                                                `
+
+[About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+
+ `                                                                                                                `
+
 
 ## Certificates
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
