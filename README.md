@@ -12,9 +12,9 @@
 *   [Resume Website](https://tracychacon.github.io/)
 
 ## In the Pipeline
-> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
-> - [_] Interactive Markov Chain simulattor
-> - [_] Physics Simulations
+> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
+> - [ ] Interactive Markov Chain simulattor
+> - [ ] Physics Simulations
 > - [ ] Python AI using pandas, pickle
 > - [ ] API
 ## Projects
