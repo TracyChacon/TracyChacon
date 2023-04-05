@@ -1,6 +1,7 @@
 
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+
 <br>
 
 ## About<hr>
@@ -35,8 +36,6 @@
 
 <br>
                                                                                                         
-
-
 ## Projects<hr>
 > - [X] [Resume Website](https://tracychacon.github.io/)
 > - [X] Markov Chains 
@@ -48,7 +47,6 @@
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
 
 <br>
-
 
 ## Skills<hr>
 > - [X] HTML5
@@ -67,12 +65,9 @@
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
 <br>
-                                                                                              
-
-
+                                                                                             
 ## Certificates<hr>
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
-
 
  `                                                                                                                `
 
