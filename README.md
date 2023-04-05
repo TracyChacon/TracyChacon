@@ -1,6 +1,4 @@
-
-
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <br>
 
@@ -54,7 +52,7 @@
 
 <br>
 
-## In the Pipeline<hr>
+## Pipeline<hr>
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
 > - [ ] Interactive Markov Chain simulator
 > - [ ] Physics Simulations
@@ -74,7 +72,7 @@
 
 <br>
 
-## My FOREVER Learning Path<hr>
+## Learning-Path<hr>
 I can't know it all but that's not going to stop me from trying to learn it all.
 > - Full Stack Development
 >   - Front End
