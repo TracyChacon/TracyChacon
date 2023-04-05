@@ -17,7 +17,7 @@
 
  `                                                                                                                `
 
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <br>
 
@@ -29,7 +29,7 @@
 >   - It involves using math and your starting point to figure out where you are most likely to end up.
 
  `                                                                                                                `
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <br>
 
@@ -48,7 +48,7 @@
 
  `                                                                                                                `
 
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <br>
 
@@ -60,7 +60,9 @@
 > - [ ] API - TBD
 
  `                                                                                                                `
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
+ 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
+
 <br>
                                                                                              
 ## Certificates<hr>
@@ -68,7 +70,7 @@
 
  `                                                                                                                `
  
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <br>
 
@@ -92,4 +94,4 @@ I can't know it all but that's not going to stop me from trying to learn it all.
 
  `                                                                                                                `
 
-### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[In the Pipeline](#In) &ensp; | [My FOREVER Learning Path](#My) 
+### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
