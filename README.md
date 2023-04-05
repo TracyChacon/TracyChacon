@@ -1,5 +1,5 @@
-`__________________________________________________________________________________________________________________`
-|| [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) ||`________________________________________________________________________________________________________________`
+`                                                                                                               `
+|| [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) ||`_____________________________________________________________________________________________________________`
 
 ## About
 - 👋 Hi, I’m @TracyChacon
