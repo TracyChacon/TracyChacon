@@ -1,9 +1,9 @@
 
 
 ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
-<hr>
+<br>
 
-## About
+## About<hr>
 - 👋 Hi, I’m @TracyChacon
 - 👀 I’m interested in FrontEnd, BackEnd, and Mobile Development
 - I'm Always thinking about processes/methods/systems
