@@ -13,6 +13,7 @@
 
 ## In the Pipeline
 >  [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
+>  [_] Interactive Markov Chain simulattor
 >  [_] Physics Simulations
 >  [ ] Python AI using pandas, pickle
 >  [ ] API
