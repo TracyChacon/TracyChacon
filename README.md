@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @TracyChacon
 - 👀 I’m interested in FrontEnd, BackEnd, and Mobile Development
 - I'm Always thinking about processes/methods/systems
+- I speak Spanish(near native/professional), English(native ablility) and I just started learning Chinese.
 - Favorite Quote: 
 > “You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing.”
 > 
