@@ -29,7 +29,8 @@
 > - [X] markdown
 > - [X] C
 > - [X] Comand Line Interface (CLI)
-## My Learning Path
+## My FOREVER Learning Path
+I can't know it all but that's not going to stop me from trying to learn it all.
 > - Full Stack Development
 >   - Front End
 >   - Back End
@@ -37,5 +38,6 @@
 > - Mathematics
 > - Physics
 > - Computer Science 
+> - Data Science
 
 
