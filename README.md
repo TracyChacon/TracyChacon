@@ -13,10 +13,10 @@
 
 ## In the Pipeline
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
-> - [ ] Interactive Markov Chain simulattor
+> - [ ] Interactive Markov Chain simulator
 > - [ ] Physics Simulations
 > - [ ] Python AI using pandas, pickle
-> - [ ] API
+> - [ ] API - TBD
 ## Projects
 > - [X] [Resume Website](https://tracychacon.github.io/)
 > - [X] Markov Chains 
