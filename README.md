@@ -1,4 +1,4 @@
-|| [About](#About) || [In the Pipeline](#In the Pipeline) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My FOREVER Learning Path) ||
+|| [About](#About) || [In the Pipeline](#In the Pipeline) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My FOREVER Learning Path) || 
 
 ## About
 - 👋 Hi, I’m @TracyChacon
