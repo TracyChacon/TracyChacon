@@ -70,8 +70,11 @@
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 
  `                                                                                                                `
+ 
+ ### [About](#About) &ensp; |&ensp; [In the Pipeline](#In) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp; [My FOREVER Learning Path](#My) 
+<br>
 
-## My FOREVER Learning Path
+## My FOREVER Learning Path<hr>
 I can't know it all but that's not going to stop me from trying to learn it all.
 > - Full Stack Development
 >   - Front End
