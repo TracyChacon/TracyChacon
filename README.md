@@ -62,12 +62,11 @@
                                                                                              
 ## Certificates
 
-
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
 <hr>
 
-> - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
+- [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 
  `                                                                                                                `
 
