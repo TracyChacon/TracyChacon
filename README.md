@@ -27,10 +27,10 @@
 
 <hr>
 
-> - [X] [Resume Website](https://tracychacon.github.io/)
-> - [X] Markov Chains 
->   - Ever hear of [page rank](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.)? 
->   - It involves using math and your starting point to figure out where you are most likely to end up.
+- [X] [Resume Website](https://tracychacon.github.io/)
+- [X] Markov Chains 
+- Ever hear of [page rank](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.)? 
+- It involves using math and your starting point to figure out where you are most likely to end up.
 
  `                                                                                                                `
 
@@ -79,11 +79,11 @@
 
 <hr>
 
-> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
-> - [ ] Interactive Markov Chain simulator
-> - [ ] Physics Simulations
-> - [ ] Python AI using pandas, pickle
-> - [ ] API - TBD
+- [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
+- [ ] Interactive Markov Chain simulator
+- [ ] Physics Simulations
+- [ ] Python AI using pandas, pickle
+- [ ] API - TBD
 
  `                                                                                                                `
  
