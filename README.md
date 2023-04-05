@@ -1,5 +1,7 @@
 `                                                                                                               `
+- 
 || [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) ||
+- 
 `                                                                                                                `
 
 ## About
