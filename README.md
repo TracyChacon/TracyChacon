@@ -22,7 +22,7 @@
 > - [X] C
 > - [X] Comand Line Interface (CLI)
 ## Curently working on
-> - [X] Front End Engineering Certificate: [Codecademy](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
+> - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
 ## Projects
 > - [ ] Resume Website
