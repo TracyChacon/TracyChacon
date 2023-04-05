@@ -21,7 +21,7 @@
 
 <br>
                                                                                         
-## Projects<hr>
+## Projects
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
@@ -36,7 +36,7 @@
 
 <br>
 
-## Skills<hr>
+## Skills
 
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
@@ -59,7 +59,7 @@
 
 <br>
 
-## Pipeline<hr>
+## Pipeline
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 
@@ -75,7 +75,7 @@
  
 <br>
                                                                                              
-## Certificates<hr>
+## Certificates
 
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
@@ -88,7 +88,7 @@
 
 <br>
 
-## Learning-Path<hr>
+## Learning-Path
 
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
