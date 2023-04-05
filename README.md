@@ -12,10 +12,10 @@
 *   [Resume Website](https://tracychacon.github.io/)
 
 ## In the Pipeline
-> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
-> - [_] Physics Simulations
-> - [ ] Python AI using pandas, pickle
-> - [ ] API
+>  [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
+>  [_] Physics Simulations
+>  [ ] Python AI using pandas, pickle
+>  [ ] API
 ## Projects
 > - [X] [Resume Website](https://tracychacon.github.io/)
 > - [X] Markov Chains 
