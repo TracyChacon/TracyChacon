@@ -1,7 +1,9 @@
 ## About
+
 <hr>
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;|&ensp;[Pipeline](#Pipeline) &ensp; | [Learning-Path](#Learning-Path) 
 <hr>
+
 - 👋 Hi, I’m @TracyChacon
 - 👀 I’m interested in FrontEnd, BackEnd, and Mobile Development
 - I'm Always thinking about processes/methods/systems
