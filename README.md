@@ -21,8 +21,8 @@
 ## Projects
 > - [X] [Resume Website](https://tracychacon.github.io/)
 ## Skills
-> - [X] HTML
-> - [X] CSS
+> - [X] HTML5
+> - [X] CSS3
 > - [X] JavaScript
 > - [X] TypeScript
 > - [X] React
