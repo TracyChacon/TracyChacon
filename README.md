@@ -22,10 +22,7 @@
 > - [X] C
 ## Curently working on
 > - [X] Front End Engineering Certificate: Codecademy
-> - [ ] Responsive Web Design Certificate: FreeCodeCamp.org
-> - [ ] 100-JavaScript Algo Challenge
-> - [ ] JavaScript Algorithms and Data Structures Certificate: FreeCodeCamp.org
-> - [ ] D3.js: FreeCodeCamp.org
+> - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
 ## Projects
 > - [ ] Resume Website
 > - [ ] Python AI using pandas, pickle
