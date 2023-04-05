@@ -1,4 +1,6 @@
-## About me
+|| [About](#About) ||
+
+## About
 - 👋 Hi, I’m @TracyChacon
 - 👀 I’m interested in FrontEnd, BackEnd, and Mobile Development
 - I'm Always thinking about processes/methods/systems
