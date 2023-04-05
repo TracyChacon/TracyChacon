@@ -8,8 +8,6 @@
 *   [Linkedin profile](https://www.linkedin.com/in/tracy-chacon-862a5699/)
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
-
-
  ## Skills
 > - [X] HTML
 > - [X] CSS
