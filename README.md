@@ -28,10 +28,10 @@
 ## Projects
 > - [X] [Resume Website](https://tracychacon.github.io/)
 ## Learning Path
-> - Full Stack
+> - Full Stack Development
 >   - Front End
 >   - Back End
-> - Mobile
+> - Mobile Development
 > - Mathematics
 > - Physics
 > - Computer Science 
