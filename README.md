@@ -27,7 +27,7 @@
 > - [ ] API
 ## Projects
 > - [X] [Resume Website](https://tracychacon.github.io/)
-## Learning Path
+## My Learning Path
 > - Full Stack Development
 >   - Front End
 >   - Back End
