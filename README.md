@@ -13,6 +13,7 @@
 
 ## In the Pipeline
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
+> - [_] Physics Simulations
 > - [ ] Python AI using pandas, pickle
 > - [ ] API
 ## Projects
@@ -41,8 +42,15 @@ I can't know it all but that's not going to stop me from trying to learn it all.
 >   - Back End
 > - Mobile Development
 > - Mathematics
+>   - [_] Take full python using math couse. Includes:
+>     - Arithmitic
+>     - Algebra
+>     - Linear Algebra
+>     - Statistics
+>     - Calculus
 > - Physics
-> - Computer Science 
+>   - [_] Take physics simulation course
+> - [Computer Science](https://github.com/ossu/computer-science) 
 > - Data Science
 
 
