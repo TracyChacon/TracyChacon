@@ -41,7 +41,7 @@
 || [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) || 
 ## Certificates
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
-`` || [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) || ``
+- || [About](#About) || [In the Pipeline](#In) || [Projects](#Projects) || [Skills](#Skills) || [Certificates](#Certificates) || [My FOREVER Learning Path](#My) ||
 ## My FOREVER Learning Path
 I can't know it all but that's not going to stop me from trying to learn it all.
 > - Full Stack Development
