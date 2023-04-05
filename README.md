@@ -12,7 +12,7 @@
 
 ## Curently working on
 > - [X] Front End Engineering [Certificate](https://www.codecademy.com/profiles/TracyChacon/certificates/5f85dd867b67b60014ac9ea3)
->  -[X] Markov Chains 
+>  - [X] Markov Chains 
 >     - Ever hear of page rank? It involves using math and your starting point to figure out where you end up.
 > - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)
 > - [ ] Python AI using pandas, pickle
