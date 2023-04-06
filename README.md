@@ -79,8 +79,8 @@
 <hr>
 
 - [ ] E-Commerce Portfio Site --Front End (React) --BackEnd (Node)  
-- [ ] Interactive Markov Chain simulator
 - [ ] Physics Simulations
+- [ ] Interactive Markov Chain simulator
 - [ ] Python AI using pandas, pickle
 - [ ] API - TBD
 
