@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="vscode orignal wordmark logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="52" alt="github original wordmark logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/ git-plain-wordmark.svg" height="40" width="52" alt="git plain wordmark logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/git-plain-wordmark.svg" height="40" width="52" alt="git plain wordmark logo"  />
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="52" alt="bootstrap original wordmark logo"  />
