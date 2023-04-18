@@ -13,8 +13,7 @@
 >
 >  -René Descartes
 ### Contact
-
-*   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="104" alt="linkedin original wordmark logo"  />](https://www.linkedin.com/in/tracy-chacon-862a5699/) 
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="104" alt="linkedin original wordmark logo"  />](https://www.linkedin.com/in/tracy-chacon-862a5699/) 
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
 
@@ -51,11 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react original wordmark logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux original logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 plain wordmark logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs original logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="vscode orignal wordmark logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="52" alt="github original wordmark logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/ git-plain-wordmark.svg" height="40" width="52" alt="git plain wordmark logo"  />
