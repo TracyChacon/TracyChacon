@@ -13,7 +13,8 @@
 >
 >  -René Descartes
 ### Contact
-*   [Linkedin profile](https://www.linkedin.com/in/tracy-chacon-862a5699/)
+
+*   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" width="52" alt="linkedin original wordmark logo"  />](https://www.linkedin.com/in/tracy-chacon-862a5699/) 
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
 
@@ -45,10 +46,10 @@
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript original logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript original logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react original wordmark logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux original logo"  />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
  
@@ -56,9 +57,11 @@
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="52" alt="github original wordmark logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/ git-plain-wordmark.svg" height="40" width="52" alt="git plain wordmark logo"  />
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="52" alt="bootstrap logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="52" alt="bootstrap original wordmark logo"  />
  
 </div>
   
