@@ -13,8 +13,8 @@
 >
 >  -René Descartes
 ### Contact
- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="104" alt="linkedin original wordmark logo"  />](https://www.linkedin.com/in/tracy-chacon-862a5699/) 
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="80" width="104" alt="linkedin original logo"  />](https://twitter.com/tracy_chacon_) 
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="120" width="156" alt="linkedin original wordmark logo"  />](https://www.linkedin.com/in/tracy-chacon-862a5699/) 
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="52" alt="linkedin original logo"  />](https://twitter.com/tracy_chacon_) 
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
 
