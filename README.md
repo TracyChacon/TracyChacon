@@ -1,6 +1,6 @@
-<div align='justify'>
+<div bgcolor='yellow' align='justify'>
 <table>
-  <tr bgcolor='orange'>
+  <tr>
     <td><h3><a href='#about'>About</<a></h3></td>
   </tr>
 </table>
