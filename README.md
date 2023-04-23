@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href='#about'><h3>About</h3></<a></td>
+    <td><h3><a href='#about'>About</<a></h3></td>
     <td><a href='#projects'><h3>Projects</h3></<a></td>
   </tr>
 </table>
