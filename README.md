@@ -1,4 +1,4 @@
-<p text="green" bgcolor="orange" >witll this be green</p>
+
 ## About
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;| &ensp;[Pipeline](#Pipeline) &ensp; | &ensp; [Learning-Path](#Learning-Path) 
