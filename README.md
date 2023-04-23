@@ -1,4 +1,4 @@
-<div bgcolor='yellow' align='justify'>
+<div text='green' bgcolor='yellow' align='justify'>
 <table>
   <tr>
     <td><h3><a href='#about'>About</<a></h3></td>
