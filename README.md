@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='justify'>
 <table>
   <tr>
     <td><h3><a href='#about'>About</<a></h3></td>
