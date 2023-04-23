@@ -1,16 +1,4 @@
-<div text='green' bgcolor='yellow' align='justify'>
-<table>
-  <tr>
-    <td><h3><a href='#about'>About</<a></h3></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><h3><a href='#projects'>Projects</<a></h3></td>
-  </tr>
-</table>
-</div>
+<p text="green" bgcolor="orange" >witll this be green</p>
 ## About
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;| &ensp;[Pipeline](#Pipeline) &ensp; | &ensp; [Learning-Path](#Learning-Path) 
