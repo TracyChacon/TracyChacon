@@ -1,10 +1,16 @@
+<div align='center'>
 <table>
   <tr>
     <td><h3><a href='#about'>About</<a></h3></td>
-    <td><a href='#projects'><h3>Projects</h3></<a></td>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><h3><a href='#projects'>Projects</<a></h3></td>
+  </tr>
+</table>
+</div>
 ## About
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;| &ensp;[Pipeline](#Pipeline) &ensp; | &ensp; [Learning-Path](#Learning-Path) 
