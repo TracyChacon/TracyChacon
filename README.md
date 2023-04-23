@@ -1,7 +1,5 @@
 <table>
   <tr>
-    <td>i</td>
-    <td></td>
     <td><a href='#about'><h3>About</h3></<a></td>
     <td><a href='#projects'><h3>Projects</h3></<a></td>
   </tr>
