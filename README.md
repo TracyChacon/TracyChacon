@@ -41,7 +41,6 @@
   
   
 # Contact
-/**
 
 <hr>
 
@@ -53,6 +52,5 @@
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
 
- `                                                                                                                `
 
 <br>
