@@ -1,3 +1,11 @@
+<style>
+  ...
+  img {
+    pointer-events: none;
+  }
+  ...
+</style>
+
 # Projects
 ## Responsive Design
 ## SQL
