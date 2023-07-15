@@ -6,14 +6,7 @@
 ### SQL
 ### APIs
 # Skills
- ![https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg?max-width=52&max-height=40)
-
-
 <div align="center">
-
-
-
-
 <a href=#Skills>
  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html plain wordmark logo"   />
 </a>
