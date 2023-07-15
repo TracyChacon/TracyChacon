@@ -1,10 +1,9 @@
 
-# Projects
-## Frontend Development
-### Responsive Design
-## Backend Development
-### SQL
-### APIs
+# Frontend Development Projects
+## Responsive Design
+# Backend Development Projects
+## SQL
+## APIs
 # Skills
 <div align="center">
 <a href=#Skills>
