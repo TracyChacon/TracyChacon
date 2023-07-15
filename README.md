@@ -5,9 +5,9 @@
 # Skills
 
 
-<div  align="center">
+<div style="pointer-events: none;" align="center">
 
- <img style="pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html plain wordmark logo"   />
+ <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html plain wordmark logo"   />
   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 plain wordmark logo"  />
   
