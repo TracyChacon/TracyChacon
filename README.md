@@ -3,15 +3,12 @@
 ## SQL
 # Skills
 
-<hr>
-
 
 
 <div align="center">
   <a href='#skills'>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html plain wordmark logo"  />
   
-    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 plain wordmark logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass orignal logo"  />
@@ -39,20 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python original wordmark logo"  />
  </a>
 </div>
-  
-  
+ 
   
 # Contact
-
-<hr>
 
   <a href='https://www.linkedin.com/in/tracy-chacon-862a5699/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="120" width="156" alt="linkedin original wordmark logo"  /></a>
   <a href='https://twitter.com/tracy_chacon_'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="80" width="104" alt="linkedin original logo"  /></a> 
 
-  
- 
 *   [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
 *   [Resume Website](https://tracychacon.github.io/)
 
-
-<br>
