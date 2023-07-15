@@ -1,4 +1,6 @@
 # Projects
+## Responsive Design
+## SQL
 # Skills
 
 <hr>
