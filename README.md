@@ -1,8 +1,9 @@
 
 # Projects
-## Responsive Design
-## SQL
-## Backend
+## Frontend Development
+### Responsive Design
+## Backend Development
+### SQL
 ### APIs
 # Skills
 
