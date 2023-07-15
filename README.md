@@ -1,6 +1,7 @@
 
 # Frontend Development - Projects
 ## Responsive Design
+## React
 # Backend Development - Projects
 ## SQL
 ## APIs
