@@ -1,7 +1,7 @@
 
-# Frontend Development Projects
+# Frontend Development - Projects
 ## Responsive Design
-# Backend Development Projects
+# Backend Development - Projects
 ## SQL
 ## APIs
 # Skills
