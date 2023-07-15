@@ -11,7 +11,7 @@
 <div align="center">
 
  <a href=#Skills>
- [https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg]()
+ ![https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg]()
 </a>
 
 <a href=#Skills>
