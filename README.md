@@ -1,4 +1,7 @@
-
+# Projects
+# Skills
+# Contact
+/**
 ## About
 
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;| &ensp;[Pipeline](#Pipeline) &ensp; | &ensp; [Learning-Path](#Learning-Path) 
@@ -149,3 +152,5 @@ I can't know it all but that's not going to stop me from trying to learn it all.
 
  `                                                                                                                `
 ### [About](#About) &ensp; |&ensp; [Projects](#Projects) &ensp;|&ensp; [Skills](#Skills) &ensp;|&ensp; [Certificates](#Certificates) &ensp;| &ensp;[Pipeline](#Pipeline) &ensp; | &ensp; [Learning-Path](#Learning-Path) 
+
+**/
