@@ -1,14 +1,9 @@
 
-# Frontend Development - Projects
-## Responsive Design
-## React
-# Backend Development - Projects
-## Command Line Interface (CLI)
+
 ## SQL
 [Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database) - Use this prototype database to conduct research, create visualizations, or simply learn more about the universe.
 
-## NODE.js
-## APIs
+
 # Algorithms
 [Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/tree/main/Markov%20Chains) -
 Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applications.
