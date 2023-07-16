@@ -69,8 +69,12 @@
 <div align="center">
   <a href='https://www.linkedin.com/in/tracy-chacon-862a5699/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="120" width="156" alt="linkedin original wordmark logo"  /></a>
   <a href='https://twitter.com/tracy_chacon_'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="80" width="104" alt="linkedin original logo"  /></a> 
-
-[freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
-[Resume Website](https://tracychacon.github.io/)
-
 </div>
+<div>
+ [freeCodeCamp profile](https://www.freecodecamp.org/tracychacon)
+</div>
+
+<div>
+ [Resume Website](https://tracychacon.github.io/)
+</div>
+
