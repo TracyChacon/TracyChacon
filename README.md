@@ -9,7 +9,9 @@
 
 ## NODE.js
 ## APIs
-
+# Python
+[]()
+Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applicatio
 # Skills
 <div align="center">
 <a href=#Skills>
