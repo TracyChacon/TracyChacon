@@ -6,7 +6,8 @@
 ## Command Line Interface (CLI)
 ## SQL
 [Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database)
-<p>Built a database of celetial bodies (the universe) using PostgreSQL. Set up and installed postgresql in order to complete user stories. The page dump is available in the link above.</p>
+
+Use this database to conduct research, create visualizations, or simply learn more about the universe.
 
 ## NODE.js
 ## APIs
