@@ -5,7 +5,7 @@
 # Backend Development - Projects
 ## Command Line Interface (CLI)
 ## SQL
-[Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database) Use this database to conduct research, create visualizations, or simply learn more about the universe.
+[Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database) A prototype of a database that could be used to conduct research, create visualizations, or simply learn more about the universe.
 
 ## NODE.js
 ## APIs
