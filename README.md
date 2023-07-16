@@ -10,7 +10,7 @@
 ## NODE.js
 ## APIs
 # Algorithms
-[]()
+[Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/blob/main/Markov%20Chains/readme.md)
 Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applications.
 # Skills
 <div align="center">
