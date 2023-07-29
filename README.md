@@ -1,10 +1,10 @@
 # Backend Development - Projects
 
-### SQL
+## SQL
 [Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database) - Small prototype database that has potential to conduct research, create visualizations, or simply learn more about the universe.
 
 
-## Algorithms and Data Structures - Projects
+# Algorithms and Data Structures - Projects
 [Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/tree/main/Markov%20Chains) -
 Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applications.
 # Skills
