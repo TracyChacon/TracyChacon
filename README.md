@@ -5,6 +5,7 @@
 
 
 # Algorithms and Data Structures - Projects
+## Python
 [Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/tree/main/Markov%20Chains) -
 Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applications.
 # Skills
