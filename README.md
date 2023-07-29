@@ -1,8 +1,7 @@
 # Backend Development - Projects
 
 ## SQL
-[Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database) - Small prototype database that has potential to conduct research, create visualizations, or simply learn more about the universe.
-
+[Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database) - Sample database that exibits my SQL database knowedge and how it can be used to help others conduct research, create visualizations, or simply learn more about the universe.
 
 # Algorithms and Data Structures - Projects
 ## Python
