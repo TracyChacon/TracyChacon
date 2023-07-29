@@ -8,7 +8,7 @@
 [Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/tree/main/Markov%20Chains) -
 Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applications.
 # Skills
-<div align="center" justify="center">
+<div align="left" justify="center">
 <a href=#Skills>
  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html plain wordmark logo"   />
 </a>
@@ -66,7 +66,7 @@ Efficient Python function to calculate the probability of reaching all states in
  
 
 # Contact
-<div align="center">
+<div align="left">
   <a href='https://www.linkedin.com/in/tracy-chacon-862a5699/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="120" width="156" alt="linkedin original wordmark logo"  /></a>
   
 </div>
