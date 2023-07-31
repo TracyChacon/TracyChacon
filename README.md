@@ -5,6 +5,8 @@
 
 [World Cup Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/rdb_project_02_world_cup_database) - Database and shell scripts that demostrate skills in SQL and Shell Scripting.
 
+[Salon Appointment Scheduler](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_03_salon_appointment_scheduler)
+
 # Algorithms and Data Structures - Projects
 ## Python
 [Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/tree/main/Markov%20Chains) -
