@@ -1,4 +1,4 @@
-# Backend Development - Projects
+# Backend Development
 
 ## Realational Database and Shell Scripting
 [Celestial Bodies Database](https://github.com/TracyChacon/FreeCodeCamp-Curriculum/tree/master/05%20Relational%20Database/rdb_project_01_celestial_bodies_database) - Sample database that exibits my SQL database knowedge for possible use cases of helping others conduct research, create visualizations, or simply learn more about the universe.
@@ -7,7 +7,7 @@
 
 [Salon Appointment Scheduler](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_03_salon_appointment_scheduler) - Shell script is a simple appointment scheduler for a salon. The shell script uses the psql command to interact with the database.
 
-# Algorithms and Data Structures - Projects
+# Algorithms and Data Structures
 ## Python
 [Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/tree/main/Markov%20Chains) -
 Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applications.
