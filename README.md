@@ -1,13 +1,16 @@
 # Backend Development
 
 ## [Realational Database and Shell Scripting](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database)
+
 [Celestial Bodies Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_01_celestial_bodies_database) - Sample database that exibits my SQL database knowedge for possible use cases of helping others conduct research, create visualizations, or simply learn more about the universe.
 
-[World Cup Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_02_world_cup_database) - Database and shell scripts that demostrate skills in SQL and Shell Scripting.
+[World Cup Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_02_world_cup_database)- Database and shell scripts that demostrate skills in SQL and Shell Scripting.
 
 [Salon Appointment Scheduler](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_03_salon_appointment_scheduler) - A shell script that is a simple appointment scheduler for a salon. The shell script uses the psql command to interact with the database.
 
-[Periodic Table](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_04_periodic_table_database)
+[Periodic Table](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_04_periodic_table_database) -
+
+[Number Guessing Game](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_05_number_guessing_game/number_guessing_game) -
 
 # Algorithms and Data Structures
 ## Python
