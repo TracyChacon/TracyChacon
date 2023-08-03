@@ -10,7 +10,7 @@
 
 [Periodic Table](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_04_periodic_table_database) - Bash script that prints out information about an element, given its atomic number, symbol, or name.
 
-[Number Guessing Game](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_05_number_guessing_game/number_guessing_game) -
+[Number Guessing Game](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_05_number_guessing_game/number_guessing_game) - Bash script that implements a number guessing game with database integration.
 
 # Algorithms and Data Structures
 ## Python
