@@ -1,6 +1,6 @@
 # Backend Development
 
-## [Realational Database and Shell Scripting](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database)
+## [Relational Database and Shell Scripting](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database)
 
 [Celestial Bodies Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_01_celestial_bodies_database) - Sample database that exibits my SQL database knowedge for possible use cases of helping others conduct research, create visualizations, or simply learn more about the universe.
 
