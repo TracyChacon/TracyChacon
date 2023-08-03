@@ -8,7 +8,7 @@
 
 [Salon Appointment Scheduler](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_03_salon_appointment_scheduler) - A shell script that is a simple appointment scheduler for a salon. The shell script uses the psql command to interact with the database.
 
-[Periodic Table](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_04_periodic_table_database) -
+[Periodic Table](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_04_periodic_table_database) - Bash script that prints out information about an element, given its atomic number, symbol, or name.
 
 [Number Guessing Game](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_05_number_guessing_game/number_guessing_game) -
 
