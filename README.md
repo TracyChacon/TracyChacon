@@ -13,7 +13,7 @@
 [Number Guessing Game](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_05_number_guessing_game/number_guessing_game) - Bash script that implements a number guessing game with database integration.
 
 # Algorithms and Data Structures
-## Python
+## Python Programming Language
 [Markov Chains](https://github.com/TracyChacon/Algorithms-and-Data-Structures/tree/main/Markov%20Chains) -
 Efficient Python function to calculate the probability of reaching all states in a Markov chain, with potential for use in gaming, finance, and other applications. I found out about this when I was given the google foobar challenge. 
 # Skills
