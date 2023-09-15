@@ -1,5 +1,9 @@
 # Backend Development and APIs
 
+
+
+
+
 ## Relational Database (SQL) and Shell Scripting (command line/CLI/BASH)
 
 [Celestial Bodies Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_01_celestial_bodies_database) - Sample database that exibits my SQL database knowedge for possible use cases of helping others conduct research, create visualizations, or simply learn more about the universe.
@@ -23,7 +27,7 @@
 This API parses the request header and returns the ip address, preferred language, and software used.
 
 
-[URL Shortener Microservice](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/06%20Back%20End%20Development%20and%20APIs/03%20Project%20URL%20Shortener%20Microservice) - Headparser code parses the request header and returns the ip address, preferred language, and software used.
+[URL Shortener Microservice](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/06%20Back%20End%20Development%20and%20APIs/03%20Project%20URL%20Shortener%20Microservice) - A URL shortener is a service that takes a long URL and creates a shorter, more memorable version of it. Very useful to make URLs easier to type and remember, to fit long URLs into social media posts or text messages, track the number of clicks on a link, or prevent spam and phishing attacks.
 
 
 
