@@ -9,11 +9,11 @@
 
 ## Relational Database (SQL) and Shell Scripting (command line/CLI/BASH)
 
-[Celestial Bodies Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_01_celestial_bodies_database) -  Sample database that exhibits my SQL database knowledge for possible use cases of helping others conduct research, create visualizations, or simply learn more about the universe.
+[Celestial Bodies Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_01_celestial_bodies_database) - Database that exhibits my SQL database knowledge for possible use cases of helping others conduct research, create visualizations, or simply learn more about the universe.
 
 [World Cup Database](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_02_world_cup_database)- Database and shell scripts that demonstrate skills in SQL and Shell Scripting.
 
-[Salon Appointment Scheduler](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_03_salon_appointment_scheduler) - A shell script that is a simple appointment scheduler for a salon. The shell script uses the psql command to interact with the database.
+[Salon Appointment Scheduler](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_03_salon_appointment_scheduler) - A shell script  appointment scheduler for a salon. The shell script uses the psql command to interact with the database.
 
 [Periodic Table](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/05%20Relational%20Database/project_04_periodic_table_database) - Bash script that prints out information about an element, given its atomic number, symbol, or name.
 
