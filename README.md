@@ -33,8 +33,7 @@ This API parses the request header and returns the ip address, preferred languag
 [URL Shortener Microservice](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/06%20Back%20End%20Development%20and%20APIs/03%20Project%20URL%20Shortener%20Microservice) - A URL shortener is a service that takes a long URL and creates a shorter, more memorable version of it. Very useful to make URLs easier to type and remember, to fit long URLs into social media posts or text messages, track the number of clicks on a link, or prevent spam and phishing attacks.
 
 
-
-
+[Exercise Tracker Application: A Full-Stack Web Development Project](https://github.com/TracyChacon/Projects-freeCodeCamp.org/tree/master/06%20Back%20End%20Development%20and%20APIs/03%20Project%20URL%20Shortener%20Microservice) - This project showcases my proficiency in building a comprehensive exercise tracking application using Node.js, Express.js, MongoDB, and the MVC architecture, demonstrating expertise in backend, frontend, and database management.
 
 
 
